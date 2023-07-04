@@ -1,0 +1,6 @@
+새로운 리액트 프로젝트를 만들어봅시다. 터미널을 열은 뒤, 다음 명령어를 실행해보세요. (윈도우 사용자는 Git Bash 를 사용하세요)
+
+$ npx create-react-app begin-react
+
+npx create-react-app (파일명)
+
